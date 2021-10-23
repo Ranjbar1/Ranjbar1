@@ -4,7 +4,7 @@
 
 ## Hey You!
 #### It is nice To see you!
-![is it me?](https://github.com/Ranjbar1/Ranjbar1/blob/main/Questions.mp4)
+
 
 #### Here I tell you a brief story about my profession.
  I am a *FRONT_END* web developer. I do design my *WEB-app* through the most popular CSS-3 Framework; *BOOTSTRAP*.
