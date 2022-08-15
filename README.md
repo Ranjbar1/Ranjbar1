@@ -1,4 +1,4 @@
-![Abolfazl ranjbar React & javascript WEBapp developer. ](https://github.com/Ranjbar1/Ranjbar1/blob/main/Blue-Geometric-Technology-LinkedIn-Banner-(1).png.png)
+![Abolfazl ranjbar React & javascript WEBapp developer. ](https://github.com/Ranjbar1/Ranjbar1/blob/main/Blue-Geometric-Technology-LinkedIn-Banner-(1).png)
 <!--START_SECTION:activity-->
 # 👋👋👋 HELLO THERE! 👋👋👋
 
