@@ -1,5 +1,15 @@
 ![Abolfazl ranjbar React & javascript WEBapp developer. ](https://github.com/Ranjbar1/Ranjbar1/blob/main/BluBanner.png)
-<!--START_SECTION:activity--># Abolfazl Ranjbar
+# Abolfazl Ranjbar 
+
+### Fullstack Engineer | Next.js • TypeScript • AI-Powered SaaS | Building Production-Ready Web Applications
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?logo=openai)
 
 Fullstack Engineer specializing in modern web applications, AI-powered products, and scalable SaaS platforms.
 
@@ -77,9 +87,4 @@ LinkedIn: https://www.linkedin.com/in/abolfazl--ranjbar/
 
 Telegram: https://t.me/abolfazl_legion
 
-Email: [your-email@example.com](mailto:your-email@example.com)
-### 📫 How to reach me:
-- Visit My [Portfolio](https://abolfazl-ranjbar.netlify.app/) 
-- [my telegram Account](https://t.me/abolfazl_legion) or
-- EMAIL ME AT [ABOLFAZL RANJBAR](https://t.me/abolfazl_legion)
-- Meet me At [Linked in](https://www.linkedin.com/in/abolfazl--ranjbar/)
+Email: [98ranjbar@gmail.com](mailto:98ranjbar@gmail.com)
